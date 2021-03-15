@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GoldianDev
+- 👀 I’m interested in video game development, modding, and software development in general.
+- 🌱 I’m currently learning c#, and took a java class in the past.
+- 📫 How to reach me:
