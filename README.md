@@ -1,4 +1,4 @@
-- Hi, I’m @GoldianDev
-- I’m interested in video game development, modding, and software development in general.
-- I’m currently learning c# and python, and know some java.
-- You can reach me at @GoldianTheOwl on twitter or @Goldian#0001 on discord.
+Howdy! I’m Goldian / Glaucidian / Grant. Current and past projects of mine involve video game modding and development, software dev, and sound design.
+I'm primarily familar with Python and C++.
+If you want to reach out, find me at @Goldian on Discord or @goldian.bsky.social on Bluesky.
+
